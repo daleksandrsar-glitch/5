@@ -1,0 +1,5 @@
+# robots.txt for https://sarkisian.pp.ua
+User-agent: *
+Allow: /
+
+Sitemap: https://sarkisian.pp.ua/sitemap.xml
